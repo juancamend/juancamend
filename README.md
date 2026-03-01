@@ -3,7 +3,7 @@
 Product Manager who builds. Not as a metaphor.
 
 Currently leading AI Platform and Pilots at MaintainX — product agent framework, evaluation infrastructure, observability, and agentic workflows 
-for industrial and frontline teams.
+for industrial and frontline teams. Previously BenchSci, ecobee and Freshbooks. 
 
 Background: self-taught tinkerer → delivery systems → AI/ML product.
 
