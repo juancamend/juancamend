@@ -1,20 +1,15 @@
 ## Hey I am Juan 👋
 
-Product Manager who builds.
-
 Currently leading AI Platform and Pilots at MaintainX, product agent framework, evaluation infrastructure, observability, and agentic workflows 
 for industrial and frontline teams. Previously BenchSci, ecobee and Freshbooks. 
 
 Background: self-taught tinkerer → delivery systems → AI/ML product.
 
-- 🔭 I’m currently working with: Claude Code, Langfuse, Python
-- 🤔 Interested in: agentic workflow design, LLM evaluation, 
-industrial AI
+- 🔭 I’m currently working with: Claude Code, Claude, Langfuse, N8N, Python
+- 🤔 Interested in: agentic workflow design, LLM evaluation
 
 <!--
 **juancamend/juancamend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-PM who builds. Not as a metaphor.
 
 Currently leading AI Platform and Pilots at MaintainX — 
 evaluation infrastructure, observability, and agentic workflows 
