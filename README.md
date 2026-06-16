@@ -1,7 +1,6 @@
 ## Hey I am Juan 👋
 
-Currently leading AI Platform and Pilots at MaintainX, product agent framework, evaluation infrastructure, observability, and agentic workflows 
-for industrial and frontline teams. Previously BenchSci, ecobee and Freshbooks. 
+Currently leading AI Strategy and multiple 0-1 bets at MaintainX, product agent framework, CLI tooling, evaluation infrastructure, observability, AI Pilots and agentic workflows for industrial and frontline teams. Previously BenchSci, ecobee and Freshbooks. 
 
 Background: self-taught tinkerer → delivery systems → AI/ML product.
 
