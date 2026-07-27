@@ -4,8 +4,8 @@ Currently leading AI Strategy and multiple 0-1 bets at MaintainX, product agent 
 
 Background: self-taught tinkerer → delivery systems → AI/ML product.
 
-- 🔭 I’m currently working with: Claude Code, Claude, Langfuse, N8N, Python
-- 🤔 Interested in: agentic workflow design, LLM evaluation
+- 🔭 I’m currently working with: Claude Code, Codex, Langfuse, N8N, Python, Node, Cloudlflare
+- 🤔 Interested in: product strategy, agentic workflow design, LLM evaluation, creative coding
 
 <!--
 **juancamend/juancamend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
