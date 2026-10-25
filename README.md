@@ -1,28 +1,11 @@
 ## Hey I am Juan 👋
 
-Currently leading AI Strategy and multiple 0-1 bets at MaintainX, product agent framework, CLI tooling, evaluation infrastructure, observability, AI Pilots and agentic workflows for industrial and frontline teams. Previously BenchSci, ecobee and Freshbooks. 
+Currently leading AI Product Strategy and multiple 0-1 bets at MaintainX, product agent framework, CLI tooling, evaluation infrastructure, observability, AI Pilots and agentic workflows for industrial and frontline teams. Previously BenchSci, ecobee and Freshbooks. 
 
 Background: self-taught tinkerer → delivery systems → AI/ML product.
 
-- 🔭 I’m currently working with: Claude Code, Codex, Langfuse, N8N, Python, Node, Cloudlflare
-- 🤔 Interested in: product strategy, agentic workflow design, LLM evaluation, creative coding
-
 <!--
 **juancamend/juancamend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Currently leading AI Platform and Pilots at MaintainX — 
-evaluation infrastructure, observability, and agentic workflows 
-for industrial and frontline teams.
-
-What you'll find here: prototypes built against production data, 
-tooling I've built to think through problems, and experiments 
-that informed real product decisions.
-
-Background: self-taught developer → delivery systems → 
-AI/ML product. The code here reflects that sequence.
-
-
-
 
 Here are some ideas to get you started:
 
